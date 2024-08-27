@@ -1,0 +1,15 @@
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Application\bin\Debug\net8.0\PiarServer.Application.deps.json
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Application\bin\Debug\net8.0\PiarServer.Application.dll
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Application\bin\Debug\net8.0\PiarServer.Application.pdb
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Application\bin\Debug\net8.0\PiarServer.Domain.dll
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Application\bin\Debug\net8.0\PiarServer.Domain.pdb
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Application\obj\Debug\net8.0\PiarServer.Application.csproj.AssemblyReference.cache
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Application\obj\Debug\net8.0\PiarServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Application\obj\Debug\net8.0\PiarServer.Application.AssemblyInfoInputs.cache
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Application\obj\Debug\net8.0\PiarServer.Application.AssemblyInfo.cs
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Application\obj\Debug\net8.0\PiarServer.Application.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Application\obj\Debug\net8.0\PiarServer.Application.csproj.CopyComplete
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Application\obj\Debug\net8.0\PiarServer.Application.dll
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Application\obj\Debug\net8.0\refint\PiarServer.Application.dll
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Application\obj\Debug\net8.0\PiarServer.Application.pdb
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Application\obj\Debug\net8.0\ref\PiarServer.Application.dll

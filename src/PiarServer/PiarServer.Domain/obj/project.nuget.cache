@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hcYfxmzRHmZOhyxVYgslPMDvI7kAnNINJr9pgpWWiXAuClDp9mBTnmSGCEK1MytEmTqTrT/3UDwTHBclPko5Gw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Miguel Angel\\Desktop\\ADMINISTRACION\\PIARAPP\\piarserver\\src\\PiarServer\\PiarServer.Domain\\PiarServer.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miguel Angel\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

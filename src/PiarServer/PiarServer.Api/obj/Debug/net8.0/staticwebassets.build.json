@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ax/zPp9nudYg4aVNDDMQH3Q6ZRvmQdbEJEfO3h1dYtQ=",
+  "Source": "PiarServer.Api",
+  "BasePath": "_content/PiarServer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

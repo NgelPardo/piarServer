@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\PiarServer",
+    "\\src\\PiarServer\\PiarServer.Domain",
+    "\\src\\PiarServer\\PiarServer.Domain\\MateriasPiar"
+  ],
+  "SelectedNode": "\\src\\PiarServer\\PiarServer.Domain\\MateriasPiar\\MateriaPiar.cs",
+  "PreviewInSolutionExplorer": false
+}

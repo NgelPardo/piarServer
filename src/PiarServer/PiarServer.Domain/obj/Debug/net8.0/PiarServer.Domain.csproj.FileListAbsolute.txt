@@ -1,0 +1,12 @@
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Domain\bin\Debug\net8.0\PiarServer.Domain.deps.json
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Domain\bin\Debug\net8.0\PiarServer.Domain.dll
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Domain\bin\Debug\net8.0\PiarServer.Domain.pdb
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Domain\obj\Debug\net8.0\PiarServer.Domain.csproj.AssemblyReference.cache
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Domain\obj\Debug\net8.0\PiarServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Domain\obj\Debug\net8.0\PiarServer.Domain.AssemblyInfoInputs.cache
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Domain\obj\Debug\net8.0\PiarServer.Domain.AssemblyInfo.cs
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Domain\obj\Debug\net8.0\PiarServer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Domain\obj\Debug\net8.0\PiarServer.Domain.dll
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Domain\obj\Debug\net8.0\refint\PiarServer.Domain.dll
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Domain\obj\Debug\net8.0\PiarServer.Domain.pdb
+C:\Users\Miguel Angel\Desktop\ADMINISTRACION\PIARAPP\piarserver\src\PiarServer\PiarServer.Domain\obj\Debug\net8.0\ref\PiarServer.Domain.dll

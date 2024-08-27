@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BE4CB1BB-0EBE-4BBF-A6FB-91C46F361803}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PiarServer", "PiarServer", "{E03C9171-B08A-4FEB-A0F2-EC231D13DEDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiarServer.Domain", "src\PiarServer\PiarServer.Domain\PiarServer.Domain.csproj", "{4E455785-3F57-4E4F-94C5-32A5601344D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiarServer.Application", "src\PiarServer\PiarServer.Application\PiarServer.Application.csproj", "{33E4DE85-BE6B-445D-87DC-83B1A78E7D34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiarServer.Infrastructure", "src\PiarServer\PiarServer.Infrastructure\PiarServer.Infrastructure.csproj", "{D91A360B-A726-48FA-B065-F6E6AF378D8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiarServer.Api", "src\PiarServer\PiarServer.Api\PiarServer.Api.csproj", "{8F83877F-2DC4-4136-9C5B-837B1111A8B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E455785-3F57-4E4F-94C5-32A5601344D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E455785-3F57-4E4F-94C5-32A5601344D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E455785-3F57-4E4F-94C5-32A5601344D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E455785-3F57-4E4F-94C5-32A5601344D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E4DE85-BE6B-445D-87DC-83B1A78E7D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E4DE85-BE6B-445D-87DC-83B1A78E7D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E4DE85-BE6B-445D-87DC-83B1A78E7D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E4DE85-BE6B-445D-87DC-83B1A78E7D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91A360B-A726-48FA-B065-F6E6AF378D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91A360B-A726-48FA-B065-F6E6AF378D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91A360B-A726-48FA-B065-F6E6AF378D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91A360B-A726-48FA-B065-F6E6AF378D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F83877F-2DC4-4136-9C5B-837B1111A8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F83877F-2DC4-4136-9C5B-837B1111A8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F83877F-2DC4-4136-9C5B-837B1111A8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F83877F-2DC4-4136-9C5B-837B1111A8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E03C9171-B08A-4FEB-A0F2-EC231D13DEDB} = {BE4CB1BB-0EBE-4BBF-A6FB-91C46F361803}
+		{4E455785-3F57-4E4F-94C5-32A5601344D6} = {E03C9171-B08A-4FEB-A0F2-EC231D13DEDB}
+		{33E4DE85-BE6B-445D-87DC-83B1A78E7D34} = {E03C9171-B08A-4FEB-A0F2-EC231D13DEDB}
+		{D91A360B-A726-48FA-B065-F6E6AF378D8D} = {E03C9171-B08A-4FEB-A0F2-EC231D13DEDB}
+		{8F83877F-2DC4-4136-9C5B-837B1111A8B1} = {E03C9171-B08A-4FEB-A0F2-EC231D13DEDB}
+	EndGlobalSection
+EndGlobal
